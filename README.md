@@ -8,4 +8,5 @@ Flac and mp3 player transmitting audio via optical toslink
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
+![Macondo](https://img.shields.io/badge/HackClub-Macondo-red.svg)
 
