@@ -10,3 +10,6 @@ A optical audio transmitter built for pristine sound delivery. Powered by the ES
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
 ![Macondo](https://img.shields.io/badge/HackClub-Macondo-red.svg)
 
+
+<img width="3840" height="2160" alt="front" src="https://github.com/user-attachments/assets/018472c6-5f51-4824-9b8e-4eb2aa4a17ab" />
+
