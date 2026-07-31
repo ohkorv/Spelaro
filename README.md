@@ -13,3 +13,26 @@ A optical audio transmitter built for pristine sound delivery. Powered by the ES
 
 <img width="3840" height="2160" alt="front" src="https://github.com/user-attachments/assets/018472c6-5f51-4824-9b8e-4eb2aa4a17ab" />
 
+# About the project
+ 
+## Features
+
+**ESP32-S3-NANO.**
+
+**1x 2.8" TFT Display**
+
+**1x 5 way tactile switch**
+
+**1x 1 way tactile switch**
+
+**1x Micro SD Card Reader**
+
+**1x Neopixel WS2812B**
+
+**1x Optical Toslink Transmitter**
+
+# Schematic
+<img width="1242" height="882" alt="Screenshot 2026-08-01 004133" src="https://github.com/user-attachments/assets/1c50a60f-3ade-4680-b8df-a4bd8780b275" />
+
+
+
