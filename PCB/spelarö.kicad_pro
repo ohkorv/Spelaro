@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "malformed_courtyard|186460000|80690000|72e5d063-c9e9-467f-b25c-4d317b74808d|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|186890000|37010000|72e5d063-c9e9-467f-b25c-4d317b74808d|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -662,7 +671,7 @@
         "uuid": "1c8cd1b3-26b7-4bfe-bcb6-e2ca378b1bff"
       }
     ],
-    "used_designators": "U3",
+    "used_designators": "A1,#PWR1-2,#PWR8-9,#PWR15-17,MK1,SW1,LED1,S1",
     "variants": []
   },
   "sheets": [
