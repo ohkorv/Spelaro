@@ -3,9 +3,10 @@
 <br> Spelarö <br>
 
 <h4 align="center">
-Flac and mp3 player transmitting audio via optical toslink
+A optical audio transmitter built for pristine sound delivery. Powered by the ESP32-S3, its integrated SD card reader and direct TOSLINK output make it easy to stream lossless FLAC and MP3 files, while the 2.8-inch screen and intuitive 5-way switch let you navigate your audio library.
 <h4 align="center">
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
+![Macondo](https://img.shields.io/badge/HackClub-Macondo-red.svg)
 
