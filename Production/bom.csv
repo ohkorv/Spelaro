@@ -1,10 +1,13 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-A1,MODULE_NANO-ESP32-ENTRY,1,Arduino_Nano_ESP32,
-C1,1206,1,100nF,
-J1,PinHeader_1x14_P2.54mm_Vertical,1,Conn_01x14_Pin,
-LED1,WS2812B,1,WS2812B,
-"R1, R2, R3",1206,3,10k,
-S1,SW_VS-1213-67-160GF,1,VS-1213-67-160GF,
-SW1,C145910,1,K1-1506SN-01,C145910
-TF1,TF-SMD_TF-012,1,TF-CARD H1.8 SY,C7529391
-U3,toslink,1,OTJ-5,
+Designator,Footprint,,,Quantity,Value,,Link,,,,,,Price
+A1,MODULE_NANO-ESP32-ENTRY,,,1,Arduino_Nano_ESP32,,https://www.electrokit.com/utvecklingskort-esp32-s3-nano-kompatibelt,,,,,,159kr
+C1,1206,,,1,100nF,,https://www.electrokit.com/kondensator-1206-x7r-100nf-10,,,,,,10kr
+J1,PinHeader_1x14_P2.54mm_Vertical,,,1,Conn_01x14_Pin,,https://www.amazon.se/gp/product/B09Z29CGY1/ref=ox_sc_act_image_1?smid=A3LA1TDA4Q3SUA&psc=1,,,,,,130kr
+LED1,WS2812B,,,1,WS2812B,,https://www.electrokit.com/led-smd5050-rgb-adresserbar-sk6812,,,,,,12.50kr
+"R1, R2, R3",1206,,,3,10k,,https://www.electrokit.com/motstand-10kohm-0.25w-smd-1206,,,,,,10kr
+S1,SW_VS-1213-67-160GF,,,1,VS-1213-67-160GF,,https://www.electrokit.com/tryckknapp-pcb-12x12x5mm,,,,,,12.80kr
+SW1,C145910,,,1,K1-1506SN-01,,https://www.electrokit.com/joystick-navigationsknapp-5-vags-smd-10x10mm-1,,,,,,18.50kr
+TF1,TF-SMD_TF-012,,,1,TF-CARD H1.8 SY,,https://www.electrokit.com/kontakt-microsd,,,,,,13kr
+U3,toslink,,,1,OTJ-5,,https://www.electrokit.com/toslink-optisk-sandare-pcb,,,,,,28kr
+PCB,,,,5,,,https://jlcpcb.com/,,,,,,20kr
+Shipping,,,,3,,,,,,,,,314kr
+Total,,,,,,,,,,,,,727.8kr

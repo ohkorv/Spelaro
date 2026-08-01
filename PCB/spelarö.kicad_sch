@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "1c8cd1b3-26b7-4bfe-bcb6-e2ca378b1bff")
 	(paper "A4")
+	(title_block
+		(title "spelarö")
+		(date "2026-08-01")
+		(rev "V1")
+		(company "konrad")
+	)
 	(lib_symbols
 		(symbol "C145910:K1-1506SN-01"
 			(exclude_from_sim no)

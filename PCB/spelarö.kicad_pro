@@ -263,7 +263,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "V1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -671,7 +671,7 @@
         "uuid": "1c8cd1b3-26b7-4bfe-bcb6-e2ca378b1bff"
       }
     ],
-    "used_designators": "A1,#PWR1-2,#PWR8-9,#PWR15-17,MK1,SW1,LED1,S1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
