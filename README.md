@@ -34,5 +34,9 @@ A optical audio transmitter built for pristine sound delivery. Powered by the ES
 # Schematic
 <img width="1242" height="882" alt="Screenshot 2026-08-01 004133" src="https://github.com/user-attachments/assets/1c50a60f-3ade-4680-b8df-a4bd8780b275" />
 
+# PCB
+<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/dceab73c-c0d2-470e-af67-ba29eb166972" />
+<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/cc2b7b77-dfa9-4b15-a29c-6a73f544e3a2" />
+
 
 
