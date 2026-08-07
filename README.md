@@ -15,14 +15,14 @@ A standalone audio player and optical transmitter powered by the ESP32-S3. Play 
 
 # About the project
 
-Spelarö is a custom hardware project that lets you play audio files directly from a micro SD card. It sends the data optically via a toslink transmitter with a toslink cable. There was no project like this
+Spelarö is a custom hardware project that lets you play flac and mp3 files directly from a micro SD card. It sends the data optically via a toslink transmitter with a toslink cable. There was no product like this, so i decided to make my own for me and my dad.
 
 ## How It Works
 
 * **Storage:** Music files are stored on a standard micro SD card. The ESP32-S3 reads the files directly from the card.
-* **Interface:** You use a 2.8-inch TFT display to see your library and a 5-way joystick switch to navigate through folders and tracks, plus an extra button for auxiliary controls.
-* **Audio Output:** The ESP32-S3 processes the audio data and sends it out through an OTJ-5 TOSLINK optical transmitter, converting the signal into light to avoid electrical interference.
-* **Status LED:** An onboard NeoPixel (WS2812B) provides visual feedback for power and playback status.
+* **Interface:** You use a 2.8-inch TFT display to see your library and a 5-way joystick switch to navigate through your libary of songs. 
+* **Audio Output:** The ESP32-S3 processes the audio data and sends it out through a toslink transmitter. This results in perfect audio for audiophiles like me and my dad. 
+* **Status LED:** An onboard NeoPixel (WS2812B) provides visual feedback for power status and can be programmed to follow the song's rhythm or anything you want.
 
 ## Features
 
