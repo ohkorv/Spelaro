@@ -15,7 +15,7 @@ A standalone audio player and optical transmitter powered by the ESP32-S3. Play 
 
 # About the project
 
-Spelarö is a custom hardware project that lets you play audio files directly from a micro SD card and send them optically to an amplifier, DAC, or speakers using a standard TOSLINK cable. It's built to give you a clean digital audio source without dealing with Bluetooth compression or ground loop noise.
+Spelarö is a custom hardware project that lets you play audio files directly from a micro SD card. It sends the data optically via a toslink transmitter with a toslink cable. There was no project like this
 
 ## How It Works
 
