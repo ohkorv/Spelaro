@@ -19,7 +19,7 @@ Spelarö is a custom hardware project that lets you play flac and mp3 files dire
 
 ## How It Works
 
-* **Storage:** Music files are stored on a standard micro SD card. The ESP32-S3 reads the files directly from the card.
+* **Storage:** Music files are stored on a standard micro SD card. The ESP32-S3 reads the files directly from the card. It then sends it via toslink.
 * **Interface:** You use a 2.8-inch TFT display to see your library and a 5-way joystick switch to navigate through your libary of songs. 
 * **Audio Output:** The ESP32-S3 processes the audio data and sends it out through a toslink transmitter. This results in perfect audio for audiophiles like me and my dad. 
 * **Status LED:** An onboard NeoPixel (WS2812B) provides visual feedback for power status and can be programmed to follow the song's rhythm or anything you want.
