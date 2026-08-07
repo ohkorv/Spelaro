@@ -3,8 +3,8 @@
 <br> Spelarö <br>
 
 <h4 align="center">
-A optical audio transmitter built for pristine sound delivery. Powered by the ESP32-S3, its integrated SD card reader and direct TOSLINK output make it easy to stream lossless FLAC and MP3 files, while the 2.8-inch screen and intuitive 5-way switch let you navigate your audio library.
-<h4 align="center">
+A standalone audio player and optical transmitter powered by the ESP32-S3. Play FLAC and MP3 files from a micro SD card, navigate your library using the 2.8-inch screen and 5-way switch, and output clean digital audio via TOSLINK.
+</h4>
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
@@ -14,22 +14,25 @@ A optical audio transmitter built for pristine sound delivery. Powered by the ES
 <img width="3840" height="2160" alt="front" src="https://github.com/user-attachments/assets/018472c6-5f51-4824-9b8e-4eb2aa4a17ab" />
 
 # About the project
- 
+
+Spelarö is a custom hardware project that lets you play audio files directly from a micro SD card and send them optically to an amplifier, DAC, or speakers using a standard TOSLINK cable. It's built to give you a clean digital audio source without dealing with Bluetooth compression or ground loop noise.
+
+## How It Works
+
+* **Storage:** Music files are stored on a standard micro SD card. The ESP32-S3 reads the files directly from the card.
+* **Interface:** You use a 2.8-inch TFT display to see your library and a 5-way joystick switch to navigate through folders and tracks, plus an extra button for auxiliary controls.
+* **Audio Output:** The ESP32-S3 processes the audio data and sends it out through an OTJ-5 TOSLINK optical transmitter, converting the signal into light to avoid electrical interference.
+* **Status LED:** An onboard NeoPixel (WS2812B) provides visual feedback for power and playback status.
+
 ## Features
 
-**ESP32-S3-NANO.**
-
-**1x 2.8" TFT Display**
-
-**1x 5 way tactile switch**
-
-**1x 1 way tactile switch**
-
-**1x Micro SD Card Reader**
-
-**1x Neopixel WS2812B**
-
-**1x Optical Toslink Transmitter**
+* **ESP32-S3-NANO** microcontroller
+* **1x 2.8" TFT Display** 
+* **1x 5-way tactile joystick switch** 
+* **1x 1-way tactile switch** 
+* **1x Micro SD Card Reader** 
+* **1x Neopixel WS2812B** 
+* **1x Optical Toslink Transmitter (OTJ-5)** 
 
 # Schematic
 <img width="1242" height="882" alt="Screenshot 2026-08-01 004133" src="https://github.com/user-attachments/assets/1c50a60f-3ade-4680-b8df-a4bd8780b275" />
@@ -54,6 +57,3 @@ A optical audio transmitter built for pristine sound delivery. Powered by the ES
 | PCB | - | 5 | - | [JLCPCB](https://jlcpcb.com/) | $2.10 |
 | **Shipping** | - | - | - | - | $33.01 |
 | **Total** | - | - | - | - | **$76.52** |
-
-
-
