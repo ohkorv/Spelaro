@@ -10,7 +10,7 @@ A standalone audio player and optical transmitter powered by the ESP32-S3. Play 
   
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
-![Macondo](https://img.shields.io/badge/HackClub-Macondo-red.svg)
+![Macondo](https://img.shields.io/badge/HackClub-Forge-red.svg)
 <h4 align="center">
 
 <img width="3840" height="2160" alt="front" src="https://github.com/user-attachments/assets/018472c6-5f51-4824-9b8e-4eb2aa4a17ab" />
